@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Data & model artifacts (large files)
+data/
+models/
+
+# Generated charts
+*.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Misc
+*.log
+.env
