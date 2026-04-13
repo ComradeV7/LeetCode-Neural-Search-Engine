@@ -49,6 +49,7 @@ streamlit run app.py
 
 ## Result
 
-![alt text](image.png)
+<img width="1881" height="903" alt="image" src="https://github.com/user-attachments/assets/453dea14-988b-4c15-b1e9-a8d844958229" />
+
 
 
